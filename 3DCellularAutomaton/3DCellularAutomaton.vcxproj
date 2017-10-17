@@ -186,6 +186,9 @@ xcopy /y /d "$(ProjectDir)glbinding.dll" "$(TargetDir)"</Command>
     <CudaCompile Include="cudahelper.cpp" />
     <CudaCompile Include="kernel.cu" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="3d_cellular_automaton.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
     <Import Project="$(VCTargetsPath)\BuildCustomizations\CUDA 8.0.targets" />
