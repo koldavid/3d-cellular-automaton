@@ -8,9 +8,9 @@ You can create different rulesets just by defining the rule for survival, birth 
 For example:
 
 **Rule "Explosions"**
- * Survival=4 6 
- * Birth=5 6 7 20 21 22 23 24 25 26
- * NumberOfStates=8
+ * Survival = 4 8
+ * Birth = 4
+ * Number Of States = 5
  
 The starting state can be set as well in the settings.ini file. Currently it only supports creating a centered, 
 random-generated cube as the starting state, but you can set the size and the density of this initial cube.
