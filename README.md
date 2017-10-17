@@ -3,6 +3,7 @@
 ![3D Cellular Automaton](https://github.com/koldavid/3d-cellular-automaton/blob/master/3DCellularAutomaton/3d_cellular_automaton.png)
 
 A simple-to-use application to explore various three dimensional cellular automaton rules. OpenGL and CUDA accelerated.
+[Youtube examples](https://www.youtube.com/watch?v=wo55lq5Iq0w&list=PLDnJfoXNS0eW77QgOiOZtfkJGU3e2a3bo)
 
 You can create different rulesets just by defining the rule for survival, birth and number of states for each cell in the settings.ini file. 
 For example:
