@@ -7,7 +7,7 @@ A simple-to-use application to explore various three dimensional cellular automa
 You can create different rulesets just by defining the rule for survival, birth and number of states for each cell in the settings.ini file. 
 For example:
 
-**Rule "Explosions"**
+**Rule "GliderHell"**
  * Survival = 4 8
  * Birth = 4
  * Number Of States = 5
